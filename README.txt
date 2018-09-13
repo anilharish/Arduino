@@ -4,7 +4,7 @@
 
 Version: 1.4 February, 2018
 Author: Anil Harish
-Robotics Project : Using 4 sensors (Works upto 6 sensors) visit https://github.com/anilharish/Robotics/Ant_Colony_Particle_Swarm_Optimization
+Robotics Project : Using 4 sensors (Works upto 6 sensors) visit https://github.com/anilharish/Robotics/tree/master/Ant_Colony_Particle_Swarm_Optimization
 For detials, other Aurdino and Robotics repositories visit https://github.com/anilharish/
 
 PREREQUISITES
